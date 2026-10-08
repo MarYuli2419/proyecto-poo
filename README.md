@@ -56,7 +56,7 @@ Aplicación web interactiva que muestra la ubicación de grafitis en Bogotá med
 
 **Importante:** Los datos en `data/grafitis.json` son **datos de ejemplo ficticios** creados únicamente para demostrar el funcionamiento de la aplicación. **No corresponden a grafitis reales** ubicados en Bogotá.
 
-El archivo contiene 15 entradas distribuidas en 7 localidades:
+El archivo contiene 15 entradas distribuidas en 8 localidades:
 - La Candelaria (2)
 - Teusaquillo (1)
 - Chapinero (3)
