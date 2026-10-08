@@ -1,0 +1,107 @@
+[
+  {
+    "nombre": "Mural de la Vida",
+    "descripcion": "Colorido mural que representa la biodiversidad colombiana",
+    "localidad": "La Candelaria",
+    "latitud": 4.5981,
+    "longitud": -74.0758
+  },
+  {
+    "nombre": "Grafiti del Centro",
+    "descripcion": "Arte urbano en el corazón histórico de Bogotá",
+    "localidad": "La Candelaria",
+    "latitud": 4.6017,
+    "longitud": -74.0699
+  },
+  {
+    "nombre": "Expresiones de la Calle 13",
+    "descripcion": "Mural colaborativo de artistas locales",
+    "localidad": "Teusaquillo",
+    "latitud": 4.6472,
+    "longitud": -74.0825
+  },
+  {
+    "nombre": "El Guardián de la 7",
+    "descripcion": "Imponente figura que vigila la carrera séptima",
+    "localidad": "Chapinero",
+    "latitud": 4.6567,
+    "longitud": -74.0589
+  },
+  {
+    "nombre": "Sueños de Chapinero",
+    "descripcion": "Serie de grafitis que representan los sueños de la juventud",
+    "localidad": "Chapinero",
+    "latitud": 4.6601,
+    "longitud": -74.0543
+  },
+  {
+    "nombre": "Arte en la 85",
+    "descripcion": "Mural moderno en la zona rosa",
+    "localidad": "Chapinero",
+    "latitud": 4.6689,
+    "longitud": -74.0512
+  },
+  {
+    "nombre": "Voces de Suba",
+    "descripcion": "Grafiti comunitario con mensajes de paz",
+    "localidad": "Suba",
+    "latitud": 4.7381,
+    "longitud": -74.0831
+  },
+  {
+    "nombre": "Colores del Norte",
+    "descripcion": "Expresión artística en el portal de Suba",
+    "localidad": "Suba",
+    "latitud": 4.7502,
+    "longitud": -74.0912
+  },
+  {
+    "nombre": "Memorias de Kennedy",
+    "descripcion": "Homenaje a la historia del barrio Kennedy",
+    "localidad": "Kennedy",
+    "latitud": 4.6347,
+    "longitud": -74.1456
+  },
+  {
+    "nombre": "Ritmos de la Calle",
+    "descripcion": "Grafiti inspirado en la música urbana",
+    "localidad": "Kennedy",
+    "latitud": 4.6289,
+    "longitud": -74.1523
+  },
+  {
+    "nombre": "Esperanza en Bosa",
+    "descripcion": "Mural de esperanza y resiliencia comunitaria",
+    "localidad": "Bosa",
+    "latitud": 4.6123,
+    "longitud": -74.1789
+  },
+  {
+    "nombre": "Identidad Bosa",
+    "descripcion": "Representación de la identidad cultural de Bosa",
+    "localidad": "Bosa",
+    "latitud": 4.6045,
+    "longitud": -74.1856
+  },
+  {
+    "nombre": "Arte en Usaquén",
+    "descripcion": "Grafiti contemporáneo en zona colonial",
+    "localidad": "Usaquén",
+    "latitud": 4.7128,
+    "longitud": -74.0321
+  },
+  {
+    "nombre": "Historia Viva",
+    "descripcion": "Mural que narra la historia de Usaquén",
+    "localidad": "Usaquén",
+    "latitud": 4.7189,
+    "longitud": -74.0287
+  },
+  {
+    "nombre": "Expresión Joven",
+    "descripcion": "Grafiti creado por jóvenes de Engativá",
+    "localidad": "Engativá",
+    "latitud": 4.6921,
+    "longitud": -74.1123
+  }
+]
